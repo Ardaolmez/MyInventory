@@ -50,7 +50,7 @@ print(sql_queries)
  
 '''
 # Insert your OpenAI API key here
-#openai_api_key= "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";
+#openai_api_key= "sk-proj-***";
 
 # Instantiate the database
 #db = SQLDatabase.from_uri("sqlite:///Chinook.db")
