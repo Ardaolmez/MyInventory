@@ -22,7 +22,7 @@ const Assistant = () => {
 
   const [processing, setProcessing] = useState(false);
 
-  const API_KEY = "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";
+  const API_KEY = "sk-proj-***";
 
   const handleSubmission = async () => {
     if (!messageText || processing) return;
